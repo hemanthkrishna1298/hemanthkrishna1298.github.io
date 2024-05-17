@@ -12,7 +12,7 @@ title                    : "hemanth.ai"
 title_separator          : "-"
 name                     : &name "Hemantha K Bharadwaj"
 description              : &description "personal description"
-url                      : "https://hemanthkrishna1298.github.io/" # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
+url                      : "https://hemanthkrishna1298.github.io" # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "hemanthkrishna1298/hemanthkrishna1298.github.io"
 
@@ -22,12 +22,12 @@ repository               : "hemanthkrishna1298/hemanthkrishna1298.github.io"
 author:
   # Biographic information
   avatar           : "PXL_20240501_141046430.jpg"
-  name             : "Your Sidebar Name"
+  name             : "Hemantha K Bharadwaj"
   pronouns         : # example: "she/her"  
   bio              : "Applied Machine Learning Engineer"
   location         : "Atlanta, GA"
   employer         : "RippleWorx"
-  uri              : "https://hemanthkrishna1298.github.io/"
+  uri              : # "https://hemanthkrishna1298.github.io"
   email            : "hemanthkrishna1298@gmail.com" 
 
   # Academic websites
