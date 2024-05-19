@@ -1,5 +1,11 @@
 # main links links
 main:
+  - title: "CV"
+    url: /files/Hemantha_Resume_23_4_2024.pdf
+
+  - title: "Portfolio"
+    url: /portfolio/
+
   - title: "Publications"
     url: /publications/
 
@@ -8,15 +14,6 @@ main:
 
   - title: "Teaching"
     url: /teaching/    
-    
-  - title: "Portfolio"
-    url: /portfolio/
         
-  - title: "Blog Posts"
+  - title: "Blog"
     url: /year-archive/
-    
-  - title: "CV"
-    url: /cv/
-    
-  - title: "Guide"
-    url: /markdown/
