@@ -1,19 +1,22 @@
 # main links links
 main:
   - title: "CV"
-    url: /files/Hemantha_Resume_23_4_2024.pdf
+    url: /files/Hemantha_Bharadwaj_Resume_7_29_24.pdf
 
-  - title: "Portfolio"
-    url: /portfolio/
+  # - title: "Portfolio"
+  #   url: /portfolio/
 
   - title: "Publications"
-    url: /publications/
+    url: https://scholar.google.com/citations?hl=en&authuser=1&user=oqQ3uEIAAAAJ/
 
-  - title: "Talks"
-    url: /talks/    
+  # - title: "Talks"
+  #   url: /talks/    
 
   - title: "Teaching"
-    url: /teaching/    
+    url: /teaching/
+
+  - title: "Projects"
+    url: /projects/    
         
-  - title: "Blog"
-    url: /year-archive/
+  # - title: "Blog"
+  #   url: /year-archive/
