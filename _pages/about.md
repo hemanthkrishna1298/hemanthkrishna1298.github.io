@@ -27,7 +27,7 @@ With a strong mathematical foundation and extensive hands-on industry experience
 ## Beyond the Code 🎵
 
 Outside the tech world, I:
-- 🎹 Have over a decade of experience as a pianist.
+- 🎹 Play the piano.
 - 🎧 Am an amateur electronic music producer.
 - 🔗 Love blending music technology with machine learning in exciting projects.
 
