@@ -2,8 +2,8 @@
 title: "Teaching Assistant - CS7641 Machine Learning"
 collection: teaching
 type: "Graduate course"
-# permalink: 
+permalink: https://omscs.gatech.edu/cs-7641-machine-learning
 venue: "Georgia Tech, OMSCS"
-# date: 2014-01-01
+date: 2022-2024
 location: "Atlanta, GA"
 ---
