@@ -1,13 +1,13 @@
 ---
 permalink: /
-title: "Welcome to hemanth.ai! 🤖"
+title: "Applied AI | LLMs | AI Agents"
 author_profile: true
 redirect_from: 
   - /about/
   - /about.html
 ---
 
-Hey there! I'm **Hemantha Bharadwaj**, an applied machine learning engineer with a flair for innovation and creativity. 🚀
+Hey there! I'm **Hemantha Bharadwaj**, an applied AI engineer who loves building awesome software using the latest in AI, be it multimodal large language models or agentic frameworks. 🚀
 
 ## Who Am I? 🤔
 
@@ -19,8 +19,8 @@ Hey there! I'm **Hemantha Bharadwaj**, an applied machine learning engineer with
 
 I'm passionate about:
 - **Deep Learning Applications** 🤖
-- **Audio/Speech Machine Learning** 🎙️
 - **Generative AI** 🌐
+- **Audio/Speech Machine Learning** 🎙️
 
 With a strong mathematical foundation and extensive hands-on industry experience, I thrive on implementing state-of-the-art generative AI technologies.
 
