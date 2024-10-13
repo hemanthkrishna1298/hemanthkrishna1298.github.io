@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: "Applied AI | LLMs | AI Agents"
+title: "Applied AI \| LLMs \| AI Agents"
 author_profile: true
 redirect_from: 
   - /about/
